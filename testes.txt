@@ -1,0 +1,24 @@
+git commit
+
+guia de comandos Git
+
+//para clonar repositório
+git clone + o link do repositório
+ (https://github.com/ffborelli/curso-ios-brq-2022-09-01.git)
+
+ git clone se faz apenas uma vez, qdo vc não tem o repositório na máquina
+
+ // comando ls lista as pastas
+ // comando cd + nome da pasta troca de pasta
+
+ // git status verifica o status de commits
+ // code . abre VScode
+ // git add. para informar mudanças, criar versão
+ // git commit para enviar para o rep local
+ // git push para enviar do rep local para remoto
+ git commit  -m " mensagem "para enviar para o rep local
+  // cd : volta pasta
+  
+  // teste de edição de arquivo - alteração por interface gráfica
+
+First test - 
